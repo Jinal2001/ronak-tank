@@ -29,6 +29,7 @@ public class Calculator {
         textField.setFont(new Font("Arial", Font.PLAIN, 40));
         frame.add(textField, BorderLayout.NORTH);
 
+
         // Panel for buttons
         JPanel panel = new JPanel();
         panel.setLayout(new GridLayout(4, 4));
