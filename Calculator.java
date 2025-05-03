@@ -11,6 +11,7 @@ public class Calculator {
     private double result;
     private String operator;
 
+
     public Calculator() {
         frame = new JFrame("Simple Calculator");
         textField = new JTextField();
