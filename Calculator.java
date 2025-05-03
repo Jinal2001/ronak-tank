@@ -12,6 +12,7 @@ public class Calculator {
     private String operator;
 
 
+
     public Calculator() {
         frame = new JFrame("Simple Calculator");
         textField = new JTextField();
